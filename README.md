@@ -1,7 +1,7 @@
 # MacOS-Sequoia-Dell-Precision-5510-More-Stable
 
 _**-Setup:**_
-* Dell Precision 5510 (Emulate: MacBook Pro (15-inch, 2016))
+* Dell Precision 5510
 * CPU: Intel Core i7 6820HQ
 * iGPU: Intel HD Graphics 530
 * dGPU: Nvidia Quadro M1000M
