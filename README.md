@@ -51,4 +51,4 @@ _**How to install:**_
 - When the installation is complete, it will appear in the OpenCore menu, "Windows" and "**Macintosh HD**" menu (we start it)
 - _This will start MacOS and its first configuration_
 
-- **If you have questions in the middle of the process or an error, let me know so I can update the guide and explain it better. I no longer have this computer so I had to remember the process without trying it.**
+# **If you have questions in the middle of the process or an error, let me know so I can update the guide and explain it better. I no longer have this computer so I had to remember the process without trying it.**
