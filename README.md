@@ -35,10 +35,10 @@ _**How to install:**_
 - Move both folders to the root of a USB with FAT32 format
 - Download the MacOS Installer from here https://mrmacintosh.com/macos-sequoia-full-installer-database-download-directly-from-apple/ or another web (The file name is **InstallAssistant.pkg**)
 - Move InstallAssistant.pkg to the root of the USB
-- You will have on your USB
-*BOOT
-*OC
-*InstallAssistant.pkg
+- You will have on your USB:
+ ---- 1: BOOT ---
+  2: OC ---
+  3: InstallAssistant.pkg ---
 
 **2- Booting**
 - Now, boot OpenCore (The USB that we prepared)
